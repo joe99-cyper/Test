@@ -6,5 +6,5 @@ void main (void){
 	int z=y;
 	printf("%d\n",x);
 	printf("%d\n",z);
-
+//print
 } 
