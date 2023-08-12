@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include "m.h"
-
+//Master
 void main (void){
 	int x = 10;
 	int z=y;
